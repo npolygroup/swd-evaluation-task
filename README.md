@@ -71,9 +71,9 @@ This is a simple `Node.js + Express.js with TypeScript` API server and will be p
 
 ## Frontend
 
-- Homepage will show a simple store front. image source: `store.jpg`
-- Products page will show the list of available products from backend products routes `/api/products/`.
-- Checkout page will show the list of product already added to cart
+- `http://localhost:3000/` Homepage will show a simple store front. image source: `store.jpg`
+- `http://localhost:3000/products` Products page will show the list of available products from backend products routes: `/api/products/`
+- `http://localhost:3000/checkout` Checkout page will show the list of product already added to cart
 
 ### Frontend Tech Stack:
 - React
