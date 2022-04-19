@@ -5,13 +5,13 @@ A simple full stack shopping cart
 The web app UI should be look like the below images:
 
 #### Home Page
-![homepage](./assetss/ui/homepage.png)
+![homepage](/homepage.png)
 
 #### Products Page
-![productspage](./assetss/ui/productspage.png)
+![productspage](/productspage.png)
 
 #### Checkout Page
-![checkoutpage](./assetss/ui/checkoutpage.png)
+![checkoutpage](/checkoutpage.png)
 
 ## Backend
 
@@ -71,7 +71,7 @@ This is a simple `Node.js + Express.js with TypeScript` API server and will be p
 
 ## Frontend
 
-- Homepage will show a simple store front. source: `assets/store.jpg`
+- Homepage will show a simple store front. source: `store.jpg`
 - Products page will show the list of available products from backend products routes.
 - Checkout page will show the list of product already added to cart
 
