@@ -75,3 +75,8 @@ This is a simple `Node.js + Express.js with TypeScript` API server and will be p
 - Products page will show the list of available products from backend products routes.
 - Checkout page will show the list of product already added to cart
 
+### Frontend Tech Stack:
+- React
+- Redux Toolkit
+- TypeScript
+
